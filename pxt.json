@@ -7,8 +7,7 @@
         "settings-blocks": "github:microsoft/pxt-settings-blocks#v1.0.0",
         "color": "*",
         "Color Fading": "github:jwunderl/pxt-color#v0.2.1",
-        "light": "*",
-        "Fishy Fishy Cross my Ocean! v1.2.2 atte": "github:unsignedarduino/fishy-fishy-cross-my-ocean#master"
+        "light": "*"
     },
     "files": [
         "main.blocks",
